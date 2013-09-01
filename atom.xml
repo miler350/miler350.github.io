@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Cordis Stanfield]]></title>
+  <link href="www.cordisstanfield.com/atom.xml" rel="self"/>
+  <link href="www.cordisstanfield.com/"/>
+  <updated>2013-09-01T11:36:24-04:00</updated>
+  <id>www.cordisstanfield.com/</id>
+  <author>
+    <name><![CDATA[-cs]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="www.cordisstanfield.com/blog/2013/09/01/hello-world/"/>
+    <updated>2013-09-01T11:33:00-04:00</updated>
+    <id>www.cordisstanfield.com/blog/2013/09/01/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
